@@ -1,0 +1,192 @@
+{
+  "VolumeName": "Geometric-1M",
+  "Servers" : [
+    {
+      "IP" : "192.168.1.1",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.2",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.3",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.4",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.5",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.6",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.7",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.8",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.9",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.10",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.11",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.12",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.13",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.14",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.15",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    },
+    {
+      "IP" : "192.168.1.16",
+      "Dir" : [
+        "/disk/disk0",
+        "/disk/disk1",
+        "/disk/disk2",
+        "/disk/disk3",
+        "/disk/disk4",
+        "/disk/disk5"
+      ]
+    }
+  ],
+  "VolumeParameter" : {
+    "nPG" : 200,
+    "Layout" : "Geometric",
+    "K" : 10,
+    "Redundancy" : 4,
+    "MinBlockSize" : 1048576,
+    "MaxBlockSize" : 268435456,
+    "GeometricBase" : 2,
+    "IsSSD" : false,
+    "HTTPPort" : 8080
+  }
+}
