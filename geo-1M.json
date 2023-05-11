@@ -187,6 +187,7 @@
     "MaxBlockSize" : 268435456,
     "GeometricBase" : 2,
     "IsSSD" : false,
-    "HTTPPort" : 8080
+    "HTTPPort" : 8080,
+    "PlacementGroup" : "Greedy"
   }
 }

@@ -185,6 +185,7 @@
     "Redundancy" : 4,
     "BlockSize" : 1048576,
     "IsSSD" : false,
-    "HTTPPort" : 8080
+    "HTTPPort" : 8080,
+    "PlacementAlgorithm" : "Greedy"
   }
 }
