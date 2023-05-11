@@ -2,6 +2,7 @@ package dir
 
 import (
 	"fmt"
+	"github.com/satori/go.uuid"
 	"rcstor/common"
 	"strings"
 	"sync"

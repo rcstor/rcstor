@@ -188,6 +188,6 @@
     "GeometricBase" : 2,
     "IsSSD" : false,
     "HTTPPort" : 8080,
-    "PlacementGroup" : "Greedy"
+    "PlacementAlgorithm" : "Greedy"
   }
 }
